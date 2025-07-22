@@ -19,7 +19,7 @@ How to Run Locally
    $user = "your_mysql_username";
    $pass = "your_mysql_password";
 4. Place the project folder in your XAMPP or hosting htdocs.
-5. Access via http://localhost/task-manager-php/index.php
+5. Access via http://localhost/taskManager/index.php
 
 
 Demo Credentials
